@@ -30,3 +30,4 @@ GymPass style app.
 - [x] Os dados da aplicacao precisam estar persistidos em um banco de dados postgresSQL;
 - [x] Todas listas de dados precisam estar paginadas com 20 itens por pagina;
 - [x] O usuario deve ser indentificado por um JWT;
+- [ ] 
